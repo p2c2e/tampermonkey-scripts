@@ -9,7 +9,8 @@ I used to maintain my accounts using [GnuCash](https://www.gnucash.org/) - Since
 
 
 * [ICICI Bank QIF](https://github.com/p2c2e/tampermonkey-scripts/raw/master/ICICI%20Bank%20QIF.user.js)
-* ICICI Bank Stock QIF - (Pending)
+* [ICICIDirect Stock QIF](https://github.com/p2c2e/tampermonkey-scripts/raw/master/ICICIDirect.user.js)
+* [ICICI Credit Card QIF](https://github.com/p2c2e/tampermonkey-scripts/raw/master/ICICI%20Credit%20Card.user.js)
 * [Standard Chartered Bank QIF](https://github.com/p2c2e/tampermonkey-scripts/raw/master/StanchartQIF.user.js)
 
 Cheers!
