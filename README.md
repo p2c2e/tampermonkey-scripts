@@ -13,6 +13,8 @@ I used to maintain my accounts using [GnuCash](https://www.gnucash.org/) - Since
 * [ICICI Credit Card QIF](https://github.com/p2c2e/tampermonkey-scripts/raw/master/ICICI%20Credit%20Card.user.js)
 * [Standard Chartered Bank QIF](https://github.com/p2c2e/tampermonkey-scripts/raw/master/StanchartQIF.user.js)
 
+* [ISBN links from Flipkart to Amazon](ihttps://github.com/p2c2e/tampermonkey-scripts/raw/master/LinkISBN.user.js)
+
 Cheers!
 
 
