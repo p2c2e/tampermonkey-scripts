@@ -6,6 +6,7 @@
 // @require http://code.jquery.com/jquery-latest.js
 // @include        https://infinity.icicibank.co.in/BANKAWAY;jsessionid=.*
 // @include 	   https://infinity.icicibank.com/corp/Finacle;jsessionid=*
+// @author         sudharsan.rangarajan @ gmail.com
 // ==/UserScript==
 //
 
